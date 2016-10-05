@@ -1,0 +1,2155 @@
+﻿abiyan,abidjan
+abjasia,abkhazia
+abrahamabraham
+adam,adam
+adan,adam
+afganistan,afghanistan
+al qaida,al
+alaska,alaska
+albania,albania
+alberta,alberta
+alejandro,alexander
+alemania,germany
+alfabeto fonetico internacional,international phonetic alphabet
+alpes,alps
+ala,allah
+amsterdam,amsterdam
+amur,amur
+america,america
+america del norte,north america
+america del sur,south america
+andorra,andorra
+andres,andrew
+angola,angola
+angora,ankara
+antigua y barbuda,antigua and barbuda
+antartida,antarctica
+arabia saudi,saudi arabia
+argel,algiers
+argelia,algeria
+argentina,argentina
+armenia,armenia
+asclepio,asclepius
+asia,asia
+asia del sur,south asia
+atenas,athens
+atenea,athena
+australia,australia
+austria,austria
+azerbaiyan,azerbaijan
+bahrein,bahrain
+baku,baku
+bangkok,bangkok
+bangladesh,bangladesh
+barbados,barbados
+beirut,beirut
+belgrado,belgrade
+berlin,berlin
+bermudas,bermuda
+biblia,bible
+bielorrusia,belarus
+blancanieves,snow white
+bolivia,bolivia
+bombay,mumbai
+bosnia,bosnia
+bosnia y hercegovina,bosnia and herzegovina
+botsuana,botswana
+brasil,brazil
+breslavia,wroclaw
+brunei,brunei
+bruselas,brussels
+bucarest,bucharest
+buda,buddha
+bulgaria,bulgaria
+burkina faso,burkina faso
+butan,bhutan
+belgica,belgium
+bosforo,bosphorus
+cabo verde,cape verde
+camboya,cambodia
+camerun,cameroon
+canada,canada
+carta magna,magna carta
+cartago,carthage
+casa blanca,white house
+chad,chad
+checoslovaquia,czechoslovakia
+chequia,czechia
+chicago,chicago
+chile,chile
+china,china
+chipre,cyprus
+chisinau,chisinau
+coca-cola,coca
+colombia,colombia
+constantinopla,constantinople
+corea,korea
+corea del norte,north korea
+corea del sur,south korea
+costa rica,costa rica
+cristo,christ
+cristobal,christopher
+croacia,croatia
+cuba,cuba
+caucaso,caucasus
+damasco,damascus
+danubio,danube
+diez mandamientos,ten commandments
+dinamarca,denmark
+dia de la victoria,victory day
+ee. uu.,usa
+edmonton,edmonton
+egipto,egypt
+emiratos árabes unidos,united arab emirates
+erevan,yerevan
+escocia,scotland
+eslovaquia,slovakia
+eslovenia,slovenia
+esparta,sparta
+españa,spain
+espiritu santo,holy spirit
+estados unidos,united states
+estados unidos de america,united states of america
+estonia,estonia
+etiopia,ethiopia
+eurasia,eurasia
+europa,europe
+europa occidental,western europe
+europa oriental,eastern europe
+europa del norte,northern europe
+extremo oriente,far east
+federacion rusa,russian federation
+feliz navidad y prospero año nuevo,merry christmas and a happy new year
+filipinas,philippines
+finlandia,finland
+fiyi,fiji
+francia,france
+gales; pais de gales,wales
+gante,ghent
+georgia,georgia
+ghana,ghana
+gibraltar,gibraltar
+ginebra,geneva
+goa,goa
+gran bretaña,great britain
+gran piramide de giza,great pyramid of giza
+grecia,greece
+groenlandia,greenland
+guillermo,william
+guinea,guinea
+gujarati,gujarati
+guyana,guyana
+haiti,haiti
+hezbola,hezbollah
+hokkaido,hokkaido
+holanda,holland
+holocausto,holocaust
+hong kong,hong kong
+hungria,hungary
+imperio bizantino,byzantine empire
+india,india
+indonesia,indonesia
+inglaterra,england
+irak,iraq
+irlanda,ireland
+irlanda del norte,northern ireland
+iran,iran
+isla de pascua,easter island
+islam,islam
+islandia,iceland
+islas baleares,balearic islands
+islas feroe,faroe islands
+islas marshall,marshall islands
+israel,israel
+italia,italy
+jamaica,jamaica
+japon ,japan
+jartum,khartoum
+jerusalen,jerusalem
+jesucristo,jesus christ
+jesus,jesus
+jordania,jordan
+jorge,george
+jose,joseph
+jrushchov,khrushchev
+juan,john
+juegos olimpicos,olympic games
+jupiter,jupiter
+karnataka,karnataka
+kazajistan,kazakhstan
+kenia,kenya
+kiev,kiev
+kirguizistan,kyrgyzstan
+kosovo,kosovo
+kuwait,kuwait
+la haya,the hague
+lago tanganica,tanganyika
+laos,laos
+letonia,latvia
+liberia,liberia
+libia,libya
+liechtenstein,liechtenstein
+lisboa,lisbon
+lituania,lithuania
+londres,london
+luxemburgo,luxembourg
+lyon,lyons
+macedonia,macedonia
+mahoma,muhammad
+malasia,malaysia
+maldivas,maldives
+malta,malta
+manchuria,manchuria
+mar amarillo,yellow sea
+mar caspio,caspian sea
+mar mediterraneo,mediterranean sea
+mar negro,black sea
+mar rojo,red sea
+marruecos,morocco
+marte,mars
+maria,mary
+mateo,matthew
+mauricio,mauritius
+miguel,michael
+minsk,minsk
+moises,moses
+moldavia,moldova
+mongolia,mongolia
+monte everest,mount everest
+montenegro,montenegro
+moscu,moscow
+mozambique,mozambique
+myanmar,myanmar
+mexico,mexico
+monaco,monaco
+munich,munich
+namibia,namibia
+navidad,christmas
+naypyidaw,naypyidaw
+nepal,nepal
+neptuno,neptune
+nicaragua,nicaragua
+nicolas,nicholas
+nigeria,nigeria
+noruega,norway
+nueva delhi,new delhi
+nueva york,new york city
+nueva zelanda,new zealand
+otan,nato
+oceania,oceania
+oceano atlantico,atlantic ocean
+oceano pacifico,pacific ocean
+oceano ártico,arctic ocean
+oceano índico,indian ocean
+oman,oman
+oriente medio; medio oriente,middle east
+osetia del sur,south ossetia
+pib,gdp
+pablo,paul
+pakistan,pakistan
+palestina,palestine
+papa ,pope
+papa noel,santa claus
+papua nueva guinea,papua new guinea
+paris,paris
+paises bajos,netherlands
+pekin,beijing
+peru,peru
+piscis,pisces
+pitagoras,pythagoras
+pluton,pluto
+pleyades,pleiades
+polonia,poland
+portugal,portugal
+praga,prague
+rangun,yangon
+reikiavik,reykjavik
+reino unido,united kingdom
+republica centroafricana,central african republic
+republica dominicana,dominican republic
+roma,rome
+ruanda,rwanda
+rumania,romania
+rusia,russia
+sida,aids
+sahara occidental,western sahara
+san petersburgo,saint petersburg
+satanas,satan
+saturno,saturn
+senegal,senegal
+serbia,serbia
+serbia y montenegro,serbia and montenegro
+seul,seoul
+shangai,shanghai
+siberia,siberia
+sicilia,sicily
+singapur,singapore
+siria,syria
+sofia,sofia
+somalia,somalia
+sra,mrs
+sri lanka,sri lanka
+stalin,stalin
+sudafrica,south africa
+sudan,sudan
+suecia,sweden
+suiza,switzerland
+sureste asiatico,southeast asia
+surinam,suriname
+tailandia,thailand
+taipei,taipei
+taiwan,taiwan
+tallin,tallinn
+tanzania,tanzania
+tayikistan,tajikistan
+teheran,tehran
+tel aviv,tel aviv
+tiflis,tbilisi
+timor oriental,east timor
+transilvania,transylvania
+transnistria,transnistria
+turkmenistan,turkmenistan
+turquia,turkey
+tunez,tunisia
+urss,ussr
+ucrania,ukraine
+uganda,uganda
+union europea,european union
+union sovietica,soviet union
+urano,uranus
+uzbekistan,uzbekistan
+varsovia,warsaw
+venezuela,venezuela
+venus,venus
+viena,vienna
+vietnam,vietnam
+vishnu,vishnu
+wikcionario,wiktionary
+wikipedia,wikipedia
+yangtse,yangtze
+yaunde,yaounde
+yemen,yemen
+yugoslavia,yugoslavia
+zagreb,zagreb
+zambia,zambia
+a vecessometimes
+a,to
+abad,abbot
+abanico,fan
+abdomenvientre (m),abdomen
+abedul,birch
+abeja,bee
+abejorro,bumblebee
+abeto,fir
+abierto,open
+abjaso,abkhaz
+abogado,lawyer
+abrazo,hug
+abril,april
+abrir,open
+abuela,grandmother
+abuelo,grandfather
+aceite,oil
+aceituna,olive
+acero,steel
+acordar,remember
+acorde,chord
+acordeon,accordion
+actinio,actinium
+actor,actor
+aca,here
+adios,goodbye
+adjetivo,adjective
+adjetivo,adjective
+admiracion,admiration
+adverbio,adverb
+aeropuerto,airport
+afrikaans,afrikaans
+agosto,august
+agresivo,aggressive
+agricultura,agriculture
+acido,sour
+aguja,needle
+agujero negro,black hole
+ahora,now
+aimara,aymara
+aire,air
+ajedrez,chess
+ajo,garlic
+brasier,bra
+ala,wing
+albaricoque ,apricot
+alcachofa,artichoke
+alcoba,bedroom
+alcohol,alcohol
+aldea,village
+alegria,joy
+aleman,german
+aleman,german
+alfabeto,alphabet
+alfabeto cirilico,cyrillic alphabet
+alfil,bishop
+alfiler,pin
+alfombra,carpet
+algo,something
+algodon,cotton
+algoritmo,algorithm
+alguien,someone
+aligator,alligator
+alimento,food
+aljibe,well
+alli,there
+alma,soul
+almendra,almond
+almohada,pillow
+alondra,lark
+alud,avalanche
+aluminio,aluminium
+hola,hello
+amar,love
+amargo,bitter
+amarillo,yellow
+amarillo,yellow
+ambulancia,ambulance
+americio,americium
+amigo,friend
+amistad,friendship
+amor,love
+amor,love
+anaranjado,orange
+anarquismo,anarchism
+ancho,wide
+anciano,old
+ancla,anchor
+anguila,eel
+anillo,ring
+animal,animal
+anime,anime
+ano,anus
+anteojos,spectacles
+antes de,before
+antiguo,old
+antimonio,antimony
+antonimo,antonym
+anuncio,advertisement
+apellido,surname
+aprender,learn
+aqui,here
+arado,plough
+araña,spider
+arce,maple
+arcilla,clay
+arco,bow
+arco iris,rainbow
+arder,burn
+ardilla,squirrel
+arena,sand
+argonauta,argonaut
+argon,argon
+arma,weapon
+armenio,armenian
+armenio,armenian
+armiño,ermine
+arqueologia,archaeology
+arquitecto,architect
+arquitectura,architecture
+arrendajo,jay
+arroba,at sign
+arroz,rice
+arsenico,arsenic
+articulo,article
+asesinato,murder
+asno,donkey
+astato,astatine
+asteroide,asteroid
+astrofisica,astrophysics
+astronomia,astronomy
+ataud,coffin
+ateismo,atheism
+aunque,but
+automovil ,car
+avellana,hazelnut
+avestruz,ostrich
+avispa,wasp
+avion,aircraft
+avion,airplane
+axila,armpit
+ayer,yesterday
+ayer,yesterday
+ayuda,help
+ayudar,help
+ayunar,fast
+ayuno,fast
+azerbaiyano,azeri
+azor,goshawk
+azucena,lily
+azufre,sulfur
+azul,blue
+azucar,sugar
+año,year
+año luz,light year
+bahia,bay
+bailar,dance
+baile,dance
+bajo,low
+bala,bullet
+balcon,balcony
+balde ,bucket
+ballena,whale
+baloncesto,basketball
+bambara,bambara
+banana ,banana
+banco,bank
+bandera,flag
+banquisa,iceberg
+barato,cheap
+barba,beard
+barbilla,chin
+bote,boat
+barco,ship
+bario,barium
+barriga,belly
+basalto,basalt
+baskir,bashkir
+basura,garbage
+batalla,battle
+batata ,sweet potato
+baya,berry
+bazo,spleen
+baño ,toilet
+beber,drink
+beber,drink
+bebida,drink
+bebe ,baby
+becerro,calf
+belleza,beauty
+bellota,acorn
+berenjena,aubergine
+berilio,beryllium
+berkelio,berkelium
+besar,kiss
+beso,kiss
+biblioteca,library
+pene dick
+bicicleta ,bicycle
+bielorruso,belorussian
+bielorruso,belarusian
+bien,well
+bien,good
+bigote,moustache
+billar,snooker
+biologia,biology
+bioquimica,biochemistry
+bismuto,bismuth
+bisonte americano,american bison
+bisonte europeo,european bison
+bisonte europeo,wisent
+bitacora,blog
+blanco,white
+blanco,white
+bobo,fool
+boca,mouth
+boda,wedding
+bohrio (m),bohrium
+bolsa,bag
+bolsillo,pocket
+bomba,bomb
+boro,boron
+borracho,drunk
+bosque,forest
+bostezar,yawn
+bota,boot
+botella,bottle
+brazo,arm
+breton,breton
+bromo,bromine
+bruja,witch
+brujula,compass
+budismo,buddhism
+buen provecho,enjoy your meal
+buen viaje,bon voyage
+buena suerte; suerte,good luck
+buenas noches,good night
+buenas noches,good evening
+buenas tardes,good afternoon
+bueno,good
+buenos dias,good day
+buenos dias,good morning
+buey,ox
+buitre,vulture
+buitre leonado,griffon vulture
+bus ,bus
+buscar,look for
+beisbol,baseball
+bufalo,buffalo
+buho ,owl
+buho chico,long
+buho real,eagle owl
+bulgaro,bulgarian
+caballa,mackerel
+caballero,knight
+caballo,knight
+caballo,horse
+cabello,hair
+cabeza,head
+cabra,goat
+cacto,cactus
+cada,each
+cadena,chain
+cadmio,cadmium
+cadaver,corpse
+caer,fall
+cafe,cafe
+cafe,coffee
+cagar,shit
+caja,box
+cake ,cake
+calabaza,pumpkin
+calamar (m),squid
+calcetin,sock
+calcio,calcium
+caliente,warm
+caliente,hot
+californio,californium
+calle,street
+calvo,bald
+cama,bed
+camarada,comrade
+camarero,waiter
+cambio,change
+camello,camel
+caminar,walk
+camino,road
+camino,way
+camisa,shirt
+camion ,truck
+campana,bell
+campo,country
+canal,canal
+canal de suez,suez canal
+canario,canary
+cancion,song
+cangrejo,crab
+canguro,kangaroo
+cannabis,cannabis
+cansado,tired
+cantante,singer
+cantar,sing
+caos,chaos
+capital,capital city
+capital,capital
+capitalismo,capitalism
+capitulo,chapter
+cara,face
+caracol,snail
+carbonero,great tit
+carbono,carbon
+carbunco,anthrax
+carne,meat
+carnero,ram
+carnicero,butcher
+caro,dear
+caro,expensive
+carpintero,carpenter
+carta,letter
+casa,house
+casi,almost
+caso genitivo,genitive
+castaña,chestnut
+castillo,castle
+castor,beaver
+catalan,catalan
+catarata,waterfall
+catorce,fourteen
+cazar,hunt
+cañon,canyon
+cebada,barley
+cebolla,onion
+cebra,zebra
+cedro,cedar
+ceja,eyebrow
+cementerio,graveyard
+ceniza,ash
+centeno,rye
+centro,center
+centuria,century
+centimetro,centimetre
+cepillo,brush
+cepillo de dientes ,toothbrush
+cera,wax
+cerdo ,pig
+cerdo hormiguero,aardvark
+cerebro,brain
+cereza,cherry
+cerilla,match
+cerio,cerium
+cernicalo comun,kestrel
+cero,zero
+cerrar,close
+cerro,hill
+cerveza,beer
+cesio,caesium
+cesta,basket
+checo,czech
+cheque,cheque
+chimpance,chimpanzee
+chino,chinese
+concha,cunt
+chocolate,chocolate
+chupar,suck
+cicatriz,scar
+ciclismo,cycling
+ciego,blind
+cielo,heaven
+cielo,heaven
+ciempies,centipede
+cien,hundred
+ciencia,science
+cierto,true
+ciervo,deer
+ciervo rojo,red deer
+cigarrillo,cigarette
+cigüeña,stork
+cinco,five
+cincuenta,fifty
+cinematografo,cinema
+cinturon ,belt
+circonio,zirconium
+ciruela,plum
+cirilico,cyrillic
+cisne,swan
+cita,date
+ciudad,town
+ciudad,city
+clarinete,clarinet
+clasificacion periodica,periodic table
+clavo,nail
+cloro,chlorine
+clitoris,clitoris
+cobalto,cobalt
+cobre,copper
+cocina,kitchen
+coco,coconut
+cocodrilo,crocodile
+codo,elbow
+codorniz,quail
+col,cabbage
+cola,tail
+cola,glue
+colchon,mattress
+coliflor,cauliflower
+collar,necklace
+colombina aguileña,columbine
+color,color
+comedor,dining room
+comenzar empezar,begin
+comer,eat
+cometa,kite
+comida,meal
+como,like
+comprar,buy
+computador,computer
+comunismo,communism
+con,with
+conciencia,conscience
+cuy,guinea pig
+conejo,rabbit
+conjuncion,conjunction
+conocer,know
+contar,count
+continente,continent
+conversacion,conversation
+copo de nieve,snowflake
+coraje,courage
+corazon,heart
+cordel,string
+cordero,lamb
+coreano,korean
+corneja,crow
+coro,choir
+correcto,right
+correo electronico,e-mail
+casa de correos,post office
+correr,run
+corriente,current
+corteza,bark
+cortes,polite
+corzo,roe deer
+cosa,thing
+costa,coast
+costa,shore
+cripton,krypton
+cristal,crystal
+vidrio,glass
+cristianismo,christianity
+cristiano,christian
+croata,croatian
+cromo,chromium
+crucigrama,crossword
+cruel,cruel
+cruz,cross
+craneo,skull
+cuaderno,notebook
+cuadrado,square
+cuando,when
+cuarenta,forty
+cuarto,quarter
+cuarto,fourth
+cuarto ,room
+cuarto de baño,bathroom
+cuatro,four
+cubo,cube
+cucaracha,cockroach
+cuchara,spoon
+cuchillo,knife
+cuclillo,cuckoo
+cuello ,neck
+cuento,story
+cuerda,rope
+cuerno,horn
+cuero,leather
+cuerpo,body
+cuervo,raven
+cueva,cave
+culo,ass
+culpa,guilt
+cultura,culture
+cumpleaños,birthday
+cura,priest
+curio,curium
+cuanto,how much
+cuantos,how many
+cancer,cancer
+carabo ,tawny owl
+carcel,prison
+cañamo,hemp
+celula,cell
+circulo,circle
+codigo de barras,barcode
+codigo postal,postcode
+como,how
+cual es tu nombre,what is your name
+como,how
+dado,die
+danes,danish
+dar,give
+datilero,date palm
+dato,data
+de,of
+deber,duty
+decir,say
+dedal,thimble
+dedo,finger
+dedo,toe
+dedo anular,ring finger
+delfin,dolphin
+delicioso,delicious
+delito,crime
+demasiado,too
+democracia,democracy
+demonio,demon
+dentista,dentist
+deporte,sport
+derecho,right
+derechos humanos,human rights
+desayuno,breakfast
+desear,wish
+desempleo ,unemployment
+desierto,desert
+desnudo,naked
+despertarse,wake up
+despues,after
+detras,behind
+diablo,devil
+dialecto,dialect
+diario,diary
+diccionario,dictionary
+diciembre,december
+diecinueve,nineteen
+dieciocho,eighteen
+diecisiete,seventeen
+dieciseis,sixteen
+diente,tooth
+diez,ten
+dificil,difficult
+dinamita (f),dynamite
+dinero ,money
+dinosaurio,dinosaur
+dios,god
+direccion,address
+disco duro,hard drive
+discusion,discussion
+disculpame,sorry
+dislexia,dyslexia
+disprosio,dysprosium
+doce,twelve
+docena,dozen
+doctor,doctor
+documentacion,documentation
+dolor,pain
+domingo,sunday
+donacion,donation
+donde,where
+dormir,sleep
+dos,two
+dragon ,dragon
+dromedario,dromedary
+dubnio,dubnium
+duda,doubt
+dulce,sweet
+dulce,sweet
+durazno ,peach
+datil,date
+decada,decade
+decimo,tenth
+dia,day
+dolar,dollar
+donde esta el baño,where is the toilet
+donde,where
+eco,echo
+eco,eco
+ecologia,ecology
+economia,economics
+ecuacion,equation
+edad,age
+construccion,building
+edificio,building
+educacion,education
+edulcorante,sweetener
+einstenio,einsteinium
+eje,axis
+ejercito,army
+el,the
+ciudad del vaticano,vatican city
+el año pasado,last year
+electricidad,electricity
+electromagnetismo,electromagnetism
+electron,electron
+electronica,electronics
+elefante,elephant
+elegir,choose
+elfo,elf
+ella,she
+ello ,it
+ellos,they
+embajada,embassy
+embarazada,pregnant
+embarazo,pregnancy
+embutido,sausage
+emperador,emperor
+en,at
+en,in
+en,on
+encender,light
+enciclopedia,encyclopedia
+encontrar ,meet
+enemigo,enemy
+energia,energy
+enero,january
+enfermedad,illness
+enfermera,nurse
+enfermo,ill
+enfermo ,sick
+enojado,angry
+enseñar,teach
+entender,understand
+entero,whole
+entrar,enter
+enviar,send
+epitelio,epithelium
+erbio,erbium
+ereccion,erection
+erizo,hedgehog
+erotico,erotic
+es ,is
+escandio,scandium
+escarabajo,beetle
+esclavo,slave
+escoba,broom
+escoger,choose
+escorpion,scorpion
+escribir,write
+escritor,writer
+escroto,scrotum
+escuchar,listen
+escuela,school
+escupir,spit
+ese,that
+esfera,sphere
+esloveno,slovene
+espacio-tiempo,spacetime
+espada,sword
+espalda,back
+español,spanish
+especia,spice
+espejo,mirror
+esperanto,esperanto
+esperanza,hope
+esperar,hope
+esperar,wait
+espina,thorn
+espinilla,pimple
+esposa,wife
+espia,spy
+espiritu,spirit
+esqueleto,skeleton
+esquizofrenia,schizophrenia
+estacion,station
+estadounidense,american
+estampilla ,postage stamp
+estar,be
+estar acostado,lie
+estar de pie,stand
+estatua,statue
+estaño,tin
+este,this
+este,east
+esto,this
+estornino,starling
+estornudar,sneeze
+estoy,am
+estrecho,narrow
+estrella,star
+estrella,star
+estroncio,strontium
+estudiante,student
+estomago,stomach
+etimologia,etymology
+euro,euro
+europio,europium
+eutanasia,euthanasia
+excavar,dig
+expresion,expression
+extranjero,foreigner
+extranjero,foreign
+extraño,strange
+eyaculacion,ejaculation
+facultad,school
+faisan (m),pheasant
+falda,skirt
+fama,name
+familia,family
+fantasma,ghost
+faraon,pharaoh
+farmacia,pharmacy
+faro,lighthouse
+faroes,faroese
+febrero,february
+fecha,date
+federacion,federation
+felicidad,happiness
+felino,cat
+feliz,happy
+feliz navidad,merry christmas
+feliz cumpleaños,happy birthday
+femenino,female
+feminismo,feminism
+fermio,fermium
+ferri,ferry
+ferrocarril,railway
+fiebre,fever
+fiebre aftosa,foot
+filosofo,philosopher
+fin,end
+fin de semana,weekend
+granja,farm
+finlandes,finnish
+firmamento,sky
+flama,flame
+flauta,flute
+flecha,arrow
+flor,flower
+florecer,flower
+fluor,fluorine
+foca,seal
+follar,fuck
+fortaleza,fortress
+fosa,moat
+fotografia,photography
+fotografia,photograph
+frambuesa,raspberry
+franceses,french
+francio,francium
+frances,french
+franja de gaza),gaza strip
+frase,sentence
+frente,forehead
+fresa ,strawberry
+refrigerador,refrigerator
+fruta,fruit
+frio,cold
+fuego,fire
+fuente,fountain
+fuente,spring
+fuerte,strong
+fuerza,strength
+fumar,smoke
+rifle,rifle
+fusta,whip
+futuro,future
+facil,easy
+fenix,phoenix
+fisica,physics
+fosforo,phosphorus
+futbol,football
+futbol,soccer
+gadolinio,gadolinium
+gaita,bagpipes
+galaxia,galaxy
+galio,gallium
+galleta,biscuit
+gallina,hen
+gallina de guinea,guinea fowl
+gallo,cock
+gallo lira,black grouse
+gamo,fallow deer
+gamuza,chamois
+ganso ,goose
+garganta,throat
+garza,heron
+garza real europea,grey heron
+gas,gas
+gasolina ,petrol
+gato,cat
+gato montes,wildcat
+gavilan,sparrow hawk
+gaviota,seagull
+gemelo,twin
+genocidio,genocide
+gente,people
+gente,man
+geografia,geography
+geometria,geometry
+georgiano,georgian
+germanio,germanium
+gigante,giant
+girasol,sunflower
+gitano,gypsy
+glaciar,glacier
+globo,balloon
+gobierno,government
+golf,golf
+golfo de finlandia,gulf of finland
+golondrina,swallow
+gonorrea,gonorrhea
+gorrion,sparrow
+gota,drop
+gracias,thanks
+gracias,thank you
+grajilla,jackdaw
+gramatica,grammar
+granada,pomegranate
+grande,large
+granizo,hail
+granjero,farmer
+gratis,free
+griego,greek
+griego,greek
+grillo,cricket
+gris,grey
+grulla,crane
+guante,glove
+guapo,pretty
+guepardo,cheetah
+guerra,war
+guerra fria,cold war
+guitarra,guitar
+gusano,worm
+gustar ,like
+geiser,geyser
+haba,bean
+hablar,speak
+hablar,talk
+hablas ingles,do you speak english
+hacer,do
+hacha,axe
+hafnio,hafnium
+hajj,hajj
+halcon,hawk
+halcon peregrino,peregrine falcon
+hamaca,hammock
+hambriento,hungry
+harina,flour
+hassio,hassium
+hay ,there is
+haya,beech
+hebreo,hebrew
+helado,ice cream
+helicoptero,helicopter
+helio,helium
+heno,hay
+herida,injury
+hermana,sister
+hermano,brother
+hermoso,beautiful
+hidrato,hydrate
+hidrogeno,hydrogen
+hielo,ice
+hiena,hyena
+hierbabuena,mint
+hierro,iron
+higo,fig
+hija,daughter
+hijo,son
+hijo,child
+hilo,thread
+hindi,hindi
+hipopotamo,hippopotamus
+historia,history
+hogar,home
+hoja,leaf
+hoja de te,tea
+hola,hi
+hola que tal,hello
+holmio,holmium
+hombre,man
+hombre lobo,werewolf
+hombro,shoulder
+homofobia,homophobia
+homosexualidad,homosexuality
+hongo,fungus
+hongo,mushroom
+hora,time
+horizonte de sucesos,event horizon
+hormiga,ant
+hormigon,concrete
+hospital,hospital
+hotel,hotel
+hoy,today
+hoy dia,today
+actualmente,today
+hoz,sickle
+hueso,bone
+huevo,egg
+humanismo (m),humanism
+humano,human
+humo,smoke
+huron,ferret
+huerfano,orphan
+huesped,guest
+hamster,hamster
+heroe,hero
+higado,liver
+hungaro,hungarian
+hungaro,hungarian
+hungaro,hungarian
+idioma anglosajon,anglo
+idiota,idiot
+iglesiachurch
+iluminar,light
+imagen,picture
+importante,important
+incendio,fire
+indio,indium
+infierno,hell
+informacion,information
+informativos ,news
+ingles,english
+ingles,english
+ingles),english
+inodoro,toilet
+insecto,insect
+insulina,insulin
+inteligencia,intelligence
+interesante,interesting
+interlingua,interlingua
+internacional,international
+internet,internet
+interprete,interpreter
+invierno,winter
+ir,go
+ira,anger
+iridio,iridium
+isla,island
+italiano,italian
+italiano,italian
+iterbio,ytterbium
+itrio,yttrium
+izquierdo,left
+jabali,boar
+jabon,soap
+japones,japanese
+japonesa,japanese
+jardin,garden
+camboyano,khmer
+jengibre,ginger
+jirafa,giraffe
+joven,young
+judaismo,judaism
+judio,jewish
+judio,jew
+juego,game
+jueves,thursday
+jugar,play
+juguete,toy
+julio,july
+junio,june
+juntos,together
+junipero,juniper
+kilometro,kilometre
+koala,koala
+kurdo,kurdish
+ketchup,ketchup
+la republica checa,czech republic
+labio,lip
+ladrillo,brick
+ladron,thief
+lagarto,lizard
+lago,lake
+lana,wool
+langosta,lobster
+lantano,lanthanum
+largo ,length
+largo,long
+latin,latin
+lava,lava
+lavar,wash
+lawrencio,lawrencium
+laud,lute
+leccion,lesson
+leche,milk
+lechuga,lettuce
+lechuza,barn owl
+lechuza blanca,screech owl
+lechon,piglet
+leer,read
+lejano,far
+lengua,tongue
+lengua,language
+lengua materna,mother tongue
+lenguaje,language
+lenguaje de maquina,machine language
+lenguaje de programacion,computer language
+lento,slow
+lesbiana,lesbian
+letra,letter
+levadura,yeast
+ley,law
+leon,lion
+libertad,freedom
+libertad de palabra,freedom of speech
+libra,pound
+libre,free
+libreria,bookshop
+libro,book
+libelula ,dragonfly
+liebre,hare
+limpio,clean
+limon,lemon
+lince,lynx
+lingüistica,linguistics
+liron,dormouse
+literatura,literature
+litio,lithium
+litro,litre
+llave,key
+lleno,full
+llevar,carry
+llorar,cry
+llover,rain
+lluvia,rain
+lobo,wolf
+loco,mad
+lodo,mud
+lombriz de tierra,earthworm
+los chinos,chinese
+lugar,place
+luna,moon
+lunes,monday
+lutecio,lutetium
+luz,light
+lagrima,tear
+lapiz,pencil
+laser,laser
+madera,wood
+madre,mother
+madrugada,morning
+maestro,teacher
+magma,magma
+magnesio,magnesium
+mal,evil
+malayalam,malayalam
+maldicion,curse
+malo,bad
+mamifero,mammal
+manganeso,manganese
+mango ,mango
+mano,hand
+manta,blanket
+mantequilla,butter
+manzana,apple
+manzano,apple tree
+mani,peanut
+maoismo,maoism
+mapa,map
+mar,sea
+mar blanco,white sea
+mar baltico,baltic sea
+mar muerto,dead sea
+marido,husband
+marihuana,marijuana
+mariposa,butterfly
+mariquita ,ladybug
+mariquita,ladybird
+marmota,marmot
+marron ,brown
+cafe,brown
+marta,marten
+martes,tuesday
+martillo,hammer
+marzo,march
+masticar,chew
+masturbacion,masturbation
+matar,kill
+matematicas,mathematics
+materia oscura,dark matter
+mayo,may
+maiz,corn
+mañana,tomorrow
+me llamo...,my name is
+medianoche,midnight
+medicamento,medicine
+medicina,medicine
+mediodia,noon
+medusa,jellyfish
+meitnerio,meitnerium
+mejilla,cheek
+mejor,better
+melon,melon
+memoria,memory
+mendelevio,mendelevium
+mente,mind
+mentir,lie
+mentira,lie
+menudo,often
+mercurio,mercury
+mes,month
+mesa,table
+metal,metal
+mezquita,mosque
+mi,my
+microscopio,microscope
+miedo,fear
+miel,honey
+mierda,shit
+mil,thousand
+millardo,billion
+milpies ,millipede
+mina,mine
+mineralogia,mineralogy
+minuto,minute
+mirar,look
+mirlo,blackbird
+mismo,same
+misterio,mystery
+misterioso,mysterious
+mitad,half
+mitologia,mythology
+miercoles,wednesday
+mochuelo europeo,little owl
+mojado,wet
+molibdeno,molybdenum
+molecula,molecule
+momento,moment
+monarquia,monarchy
+monasterio,monastery
+moneda,coin
+monje,monk
+mono,monkey
+montaña,mountain
+mora,blackberry
+morado,purple
+morder,bite
+morir,die
+morsa,walrus
+mosca,fly
+mosquito ,mosquito
+mostaza,mustard
+mostela,least weasel
+motocicleta,motorcycle
+motor de combustion interna,internal combustion engine
+muchas gracias,thank you very much
+mucho,much
+muchos,many
+muerte,death
+muerto,dead
+muflon,mouflon
+mujer,woman
+mulo,mule
+mundo,world
+mundo,world
+murcielago,bat
+muro,wall
+musaraña,shrew
+museo,museum
+musgo,moss
+muslo,thigh
+musulman,muslim
+muy,very
+muñeca,doll
+medico,doctor
+musculo,muscle
+musica,music
+musico,musician
+nacimiento,birth
+nada,nothing
+nadar,swim
+nadie,nobody
+naranja ,orange
+naranja,orange
+naranjo,orange
+nariz,nose
+nata,cream
+naturaleza,nature
+nave espacial,spaceship
+nave espacial,spacecraft
+nebulosa,nebula
+necesito un interprete,i need an interpreter
+holandes,dutch
+neerlandes,dutch
+negro,black
+neodimio,neodymium
+neptunio,neptunium
+neutrino,neutrino
+neon,neon
+nido,nest
+niebla,fog
+nieta,granddaughter
+nieto,grandchild
+nieve,snow
+niobio,niobium
+pezon,nipple
+nitrogeno,nitrogen
+niña ,girl
+niñera,babysitter
+niño,boy
+niño,child
+no,not
+no-matar,nonkilling
+nobelio,nobelium
+noche,night
+nombrar,name
+nombre,name
+norte,north
+nosotros,we
+noticias,news
+noveno,ninth
+noventa,ninety
+novia,bride
+noviembre,november
+nube,cloud
+nudo,nude
+nuera,daughter
+nuestro,our
+nueve,nine
+nuevo,new
+nuez,nut
+nunca,never
+nutria,otter
+niquel,nickel
+numero,number
+numero primo,prime number
+o,or
+obediencia,obedience
+obesidad,obesity
+obispo,bishop
+oboe,oboe
+occitano,occitan
+ochenta,eighty
+ocho,eight
+octavo,eighth
+octubre,october
+ocupado,busy
+oceano,ocean
+odiar,hate
+odio,hatred
+oeste,west
+oficina,office
+ojo,eye
+ojo por ojo,tooth for a tooth
+olor,smell
+olvidar,forget
+ombligo,navel
+once,eleven
+onda,wave
+opinion,opinion
+oracion,prayer
+ordeñar,milk
+oreja,ear
+organismo,organism
+organizacion no gubernamental,non
+orgasmo,orgasm
+orientacion sexual,sexual orientation
+orina,urine
+ornitorrinco,platypus
+oro,gold
+ortiga,nettle
+oruga,caterpillar
+oscuridad,darkness
+oscuro,dark
+osmio,osmium
+oso,bear
+oso polar,polar bear
+otoño,autumn
+otra vez,again
+otro,other
+ovario,ovary
+oveja,sheep
+oxigeno,oxygen
+oir,listen
+padre,father
+pala,spade
+palabra,word
+palacio,palace
+paladio,palladium
+palma ,palm
+paloma,dove
+paloma,pigeon
+pan,bread
+panaderia,bakery
+pantalon,pants
+pantalon,trousers
+papa,potato
+papagayo,parrot
+papel,paper
+paradoja,paradox
+parasol,umbrella
+pared,wall
+pariente,relative
+parlamento,parliament
+parque,park
+parte,part
+partera,midwife
+pasaporte,passport
+pascua,easter
+pasillo,corridor
+pastel,pie
+pasto,grass
+pastor,shepherd
+pato,duck
+pato real,mallard
+pavo ,turkey
+pavo real,peacock
+paz,peace
+paz,peace
+pais,country
+pecado,sin
+pecho,chest
+pecho,breast
+pedir,ask
+pedo,fart
+peer ,fart
+peine,comb
+pelear,fight
+peligroso,dangerous
+pelo),hair
+pelicula,movie
+pelicula,film
+pene,penis
+penicilina,penicillin
+pensar,think
+peninsula,peninsula
+pepino,cucumber
+pequeño,little
+pequeño,small
+pera,pear
+perdiz,partridge
+perestroika,perestroika
+perezoso,lazy
+perine,perineum
+periodico,newspaper
+pero,but
+perra ,bitch
+perro,dog
+persa,persian
+perseguir,chase
+persona,person
+pesadilla,nightmare
+pesado,heavy
+pestaña,eyelash
+petroleo,oil
+pez,fish
+pezuña,hoof
+piano,piano
+pico,bill
+pico menor,lesser spotted woodpecker
+pico picapinos,great spotted woodpecker
+pie,foot
+piedra,stone
+piedra,stone
+piel,skin
+pierna,leg
+pieza,piece
+pila,battery
+pimienta,pepper
+pingüino,penguin
+pino,pine
+pintor,painter
+pintura,paint
+piojo,louse
+pirata,pirate
+piramide,pyramid
+piscina ,swimming pool
+piso,floor
+suelo,floor
+pito negro,black woodpecker
+pito real,green woodpecker
+pizza,pizza
+piña,pineapple
+placer,pleasure
+plancha,iron
+planchar,iron
+planeta,planet
+planta,plant
+plata,argent
+platino,platinum
+plato,plate
+playa,beach
+plaza,square
+plomo,lead
+pluma,feather
+pluma,pen
+plutonio,plutonium
+pobre,poor
+poder,can
+poema,poem
+poesia,poetry
+polaco,polish
+policia,police
+policia,policeman
+polilla,moth
+polla,cock
+pollo,chicken
+polonio,polonium
+polvo,dust
+poligono,polygon
+politica,politics
+politico,politician
+pomba brava,rock dove
+por ciento,percent
+por ejemplo,e.g.
+por favor,please
+por que,why
+por supuesto,of course
+pornografia,pornography
+porque,because
+portugues,portuguese
+postmodernidad,postmodernism
+potasio,potassium
+potencia,power
+praseodimio,praseodymium
+precio,price
+pregunta,question
+preguntar,ask
+preposicion,preposition
+prepucio,prepuce
+preservativo,condom
+presidente,president
+primavera,spring
+primer ministro,prime minister
+primero,first
+problema,problem
+promecio,promethium
+pronombre,pronoun
+pronto,soon
+pronunciacion,pronunciation
+propiedad,property
+prostituta,prostitute
+protactinio,protactinium
+proteger,protect
+proton,proton
+proverbio,proverb
+feliz año nuevo ,happy new year
+puebl,people
+puente ,bridge
+puerro,leek
+puerta,door
+puerto,port
+pulga,flea
+pulgar,thumb
+pulmon,lung
+pulpo,octopus
+puta ,whore
+puño,fist
+pagina,page
+pajaro,bird
+pajaro carpintero,woodpecker
+pancreas,pancreas
+parpado,eyelid
+picea,spruce
+polvora,gunpowder
+que,than
+querer,want
+queso,cheese
+quince,fifteen
+quinto,fifth
+quiquiriqui,cock
+quiza,perhaps
+quiza,maybe
+quien,who
+que hora es,what time is it
+que,what
+quimica,chemistry
+radio,radio
+radon,radon
+rama,branch
+rana,frog
+rascacielos,skyscraper
+rastrillo,rake
+rata,rat
+rata almizclera,muskrat
+ratonero comun,buzzard
+raton,mouse
+raton,mouse
+raiz,root
+raiz,root
+reciente,recent
+rectangulo,rectangle
+regalo,gift
+reina,queen
+reino,kingdom
+sexo,sex
+religion,religion
+reloj,watch
+relampago,lightning
+remo,oar
+renacuajo,tadpole
+renio,rhenium
+reno,reindeer
+renunciar,abandon
+reptil,reptile
+republica,republic
+todos los derechos reservados,all rights reserved
+resfriado,cold
+respirar,breathe
+respuesta,answer
+restaurante,restaurant
+revolucion,revolution
+rey,king
+reir,laugh
+rico,rich
+rinoceronte,rhinoceros
+riñon,kidney
+roble,oak tree
+robot,robot
+roca ignea,igneous rock
+rocio,dew
+rodilla,knee
+rodio,rhodium
+rojo,red
+rojo,red
+romano,roman
+romperse,break
+ropa,clothes
+rosa,rose
+rosado,pink
+rubidio,rubidium
+rublo,ruble
+rueda,wheel
+ruiseñor,nightingale
+rumano,romanian
+ruso,russian
+rusa,russian
+rutenio,ruthenium
+rutherfordio,rutherfordium
+rapido,fast
+rio,river
+saber,know
+sabio,wise
+sal,salt
+saliva,saliva
+salmon,salmon
+salsa,sauce
+saltamontes,grasshopper
+salud,cheers
+salud,health
+samario,samarium
+sandia ,watermelon
+sangrar,bleed
+sangre,blood
+sanguijuela,leech
+sapo,toad
+satelite,moon
+sauce,willow
+seaborgio,seaborgium
+seco,dry
+secreto,secret
+sed,thirst
+seda,silk
+sediento,thirsty
+segundo,second
+seis,six
+seleccion,choice
+selenio,selenium
+semana,week
+semen,semen
+semilla,seed
+sentar,sit
+septiembre,september
+ser,be
+ser humano,human being
+serbio,serb
+serpiente ,snake
+servicio,service
+sesenta,sixty
+setenta,seventy
+genero,sex
+sexo anal,anal sex
+sexto,sixth
+señorita ,miss
+si,if
+siempre,always
+sierra,saw
+siete,seven
+silencio,silence
+silicio,silicon
+silla,chair
+simple,simple
+sin,without
+sistema,system
+sistema operativo,operating system
+sistema solar,solar system
+sitio web,web site
+sobrina,niece
+sodio,sodium
+software,software
+sofa,sofa
+sol,sun
+soldado,soldier
+sombra,shadow
+sombrero,hat
+sonido,sound
+sonreir,smile
+sonrisa,smile
+sopa,soup
+sordo,deaf
+soy ingles,i am english
+soñar,dream
+su,her
+su,their
+submarino,submarine
+suceder pasar,happen
+sucio,dirty
+sueco ,swedish
+suegra,mother
+suegro,father
+sueño,dream
+sueño,sleep
+suicidio,suicide
+sur,south
+sustantivo,noun
+sabado,saturday
+sandwich,sandwich
+sanscrito,sanskrit
+septimo,seventh
+si,yes
+tabaco,tobacco
+tabla,table
+taiga,taiga
+tailandes,thai
+talento,talent
+talio,thallium
+talon,heel
+tambien,too
+tambien,also
+tambor,drum
+tanque,tank
+tarde,afternoon
+tarjeta postal,postcard
+tatuaje,tattoo
+taxi ,taxi
+taza,cup
+te adoro,i love you
+te quiero,i love you
+techo,ceiling
+teclado,keyboard
+tecnecio,technetium
+tejado,roof
+tejido conjuntivo,connective tissue
+tejon,badger
+telefonear,telephone
+telescopio,telescope
+television,television
+televisor,television
+teluro,tellurium
+telefono,phone
+telefono celular,cell phone
+telefono movil,mobile phone
+temer,fear
+templo,temple
+temprano,early
+tenedor,fork
+tener,have
+tengo una pregunta,i have a question
+terbio,terbium
+tercero,third
+terremoto,earthquake
+territorio,territory
+terrorismo,terrorism
+terrorista,terrorist
+testiculo,testicle
+tiburon,shark
+tiempo,weather
+tienda,shop
+tienda,tent
+tierra,land
+tierra,earth
+tifon,typhoon
+tigre,tiger
+tijera,scissors
+tinta,ink
+titanio,titanium
+tobillo,ankle
+tocar,touch
+todo,everything
+todos,all
+todos,everyone
+tomar,take
+tomate,tomato
+topo,mole
+torio,thorium
+toro,bull
+torre,tower
+tortuga,turtle
+tortuga ,tortoise
+toser,cough
+trabajar,work
+trabajo,work
+tradicion,tradition
+traduccion,translation
+traducir,translate
+traductor,translator
+tragar,swallow
+tranvia,tram
+trastorno bipolar,bipolar disorder
+trece,thirteen
+treinta,thirty
+tren,train
+tres,three
+tribu,tribe
+trigo,wheat
+triangulo,triangle
+trompeta,trumpet
+trueno,thunder
+tsunami,tsunami
+tu,your
+tulio,thulium
+tungsteno,tungsten
+turco,turkish
+turismo,tourism
+turon,polecat
+tantalo,tantalum
+te,tea
+tia,aunt
+tio,uncle
+tortola,turtle dove
+tu,thou
+ucraniano,ukrainian
+un,an
+unidad astronomica,astronomical unit
+universidad,school
+universo,universe
+uno,one
+uranio,uranium
+uretra,urethra
+urogallo,capercaillie
+urraca,magpie
+usar,use
+uva,grape
+uña,nail
+vaca,cow
+vacuno,beef
+vacio,empty
+vagina,vagina
+valiente,brave
+valle,valley
+valquiria,valkyrie
+vampiro,vampire
+vanadio,vanadium
+varon,man
+vaso ,glass
+vecino,neighbour
+veinte,twenty
+veinticuatro,twenty
+veintitres,twenty
+veintiuno,twenty
+vela,candle
+vender,sell
+veneno,poison
+venganza,revenge
+venir,come
+ventana,window
+ver,see
+verano,summer
+verbo,verb
+verde,green
+verde,green
+verdura,vegetable
+verruga,wart
+vestido,dress
+vesicula biliar,gall bladder
+veztime
+viajar,travel
+victoria,victory
+vida,life
+viento,wind
+viento solar,solar wind
+viernes,friday
+vinagrevinegar
+vino,wine
+violacion,rape
+violeta,violet
+violin,violin
+virus,virus
+visa,visa
+viuda,widow
+vivir,live
+vivo,alive
+vodka,vodka
+volar,fly
+volcan,volcano
+voleibol,volleyball
+voltio,volt
+voz,voice
+vuestro,your
+whisky,whiskey
+xenofobia,xenophobia
+xenon,xenon
+y comercial,ampersand
+y,and
+ya,already
+yegua,mare
+yema,yolk
+yihad,jihad
+yo,i
+yodo,iodine
+yoga,yoga
+yogur,yoghurt
+yunque,anvil
+zanahoria,carrot
+zapato,shoe
+zar,tsar
+zinc,zinc
+zorro,fox
+zumo,juice
+¡bienvenido!,welcome
+¡socorro!,help
+¿cuantos años tienes? (informal),how old are you
+áfrica,africa
+abaco,abacus
+aguila,eagle
+aguila real,golden eagle
+alamo,poplar
+ambar,amber
+angel,angel
+ansar,greylag goose
+arabe,arabic
+arbol,tree
+atomo,atom
+el,he
+erase una vez, habia una vez, era una vez,once upon a time
+ibice,ibex
+indice,index
+indice,forefinger
+organo,organ
+util,useful

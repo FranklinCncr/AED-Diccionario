@@ -1,0 +1,22 @@
+abbreviated	cortado
+abbreviates	abrevia
+abbreviates	Reducciones, resúmenes, abreviaciones, compendios.
+abbreviating	abreviando
+abbreviation	abreviacio/n
+abbreviation	abreviatura
+abbreviation	abreviatura[Noun]
+abbreviations	abreviaciones
+abbreviations	abreviaturas
+abbreviator	abreviador
+abc	abc
+abc	abecedario
+abdicable	abdicable, que puede abdicar
+abdicate	abdicar
+abdicate	renunciar a; abdicar[Verb]
+abdicated	abdicado (participio de abdicar)
+abdication	abdicacio/n
+abdication	renuncia; abdicación (de un monarca)[Noun]
+abdicator	abdicador
+abdomen	abdo/men
+abdomen	abdomen[Noun]
+abdomen	(inf.)barriga, vientre

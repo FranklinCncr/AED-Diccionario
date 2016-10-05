@@ -1,5 +1,10 @@
 #pragma once
-
+#include "Lista.h"
+#include <fstream>
+#include <iostream>
+#include <msclr\marshal_cppstd.h>
+using namespace std;
+using namespace System;
 namespace Diccionario {
 
 	using namespace System;
@@ -9,12 +14,29 @@ namespace Diccionario {
 	using namespace System::Data;
 	using namespace System::Drawing;
 
+	void MarshalString(String ^ s, string& os) {
+		using namespace Runtime::InteropServices;
+		const char* chars =
+			(const char*)(Marshal::StringToHGlobalAnsi(s)).ToPointer();
+		os = chars;
+		Marshal::FreeHGlobal(IntPtr((void*)chars));
+	}
+
+	void MarshalString(String ^ s, wstring& os) {
+		using namespace Runtime::InteropServices;
+		const wchar_t* chars =
+			(const wchar_t*)(Marshal::StringToHGlobalUni(s)).ToPointer();
+		os = chars;
+		Marshal::FreeHGlobal(IntPtr((void*)chars));
+	}
+
 	/// <summary>
 	/// Resumen de MyForm
 	/// </summary>
+	Lista<string> List;	
 	public ref class MyForm : public System::Windows::Forms::Form
 	{
-	public:
+	public:		
 		MyForm(void)
 		{
 			InitializeComponent();
@@ -35,27 +57,41 @@ namespace Diccionario {
 			}
 		}
 	private: System::Windows::Forms::Label^  label1;
-	private: System::Windows::Forms::TextBox^  textBox1;
-	private: System::Windows::Forms::Button^  button1;
+	private: System::Windows::Forms::TextBox^  palabra;
+
+
+
 	private: System::Windows::Forms::Label^  label2;
-	private: System::Windows::Forms::Button^  button2;
+	private: System::Windows::Forms::Button^  buscar;
+
 	private: System::Windows::Forms::Label^  label3;
-	private: System::Windows::Forms::TextBox^  textBox2;
-	private: System::Windows::Forms::TextBox^  textBox3;
+	private: System::Windows::Forms::TextBox^  direccionArchivo;
+
+
+
 	private: System::Windows::Forms::Label^  label4;
-	private: System::Windows::Forms::TextBox^  textBox4;
+	private: System::Windows::Forms::TextBox^  radio;
+
 	private: System::Windows::Forms::Label^  label5;
-	private: System::Windows::Forms::TextBox^  textBox5;
+	private: System::Windows::Forms::TextBox^  resultados;
+
 	private: System::Windows::Forms::ComboBox^  comboBox1;
 	private: System::Windows::Forms::Label^  label6;
 	private: System::Windows::Forms::Label^  label7;
-	private: System::Windows::Forms::Button^  button3;
-	private: System::Windows::Forms::TextBox^  textBox6;
+	private: System::Windows::Forms::Button^  cargar;
+
+	private: System::Windows::Forms::TextBox^  tiempocarga;
+
 	private: System::Windows::Forms::Label^  label8;
-	private: System::Windows::Forms::TextBox^  textBox7;
+	private: System::Windows::Forms::TextBox^  ram;
+
 	private: System::Windows::Forms::Label^  label9;
-	private: System::Windows::Forms::TextBox^  textBox8;
+	private: System::Windows::Forms::TextBox^  tiempoBusqueda;
+
 	private: System::Windows::Forms::PictureBox^  pictureBox1;
+	private: System::Windows::Forms::ListBox^  listBox1;
+	private: System::Windows::Forms::Button^  button1;
+
 
 	protected:
 
@@ -74,27 +110,27 @@ namespace Diccionario {
 		{
 			System::ComponentModel::ComponentResourceManager^  resources = (gcnew System::ComponentModel::ComponentResourceManager(MyForm::typeid));
 			this->label1 = (gcnew System::Windows::Forms::Label());
-			this->textBox1 = (gcnew System::Windows::Forms::TextBox());
-			this->button1 = (gcnew System::Windows::Forms::Button());
+			this->palabra = (gcnew System::Windows::Forms::TextBox());
 			this->label2 = (gcnew System::Windows::Forms::Label());
-			this->button2 = (gcnew System::Windows::Forms::Button());
+			this->buscar = (gcnew System::Windows::Forms::Button());
 			this->label3 = (gcnew System::Windows::Forms::Label());
-			this->textBox2 = (gcnew System::Windows::Forms::TextBox());
-			this->textBox3 = (gcnew System::Windows::Forms::TextBox());
+			this->direccionArchivo = (gcnew System::Windows::Forms::TextBox());
 			this->label4 = (gcnew System::Windows::Forms::Label());
-			this->textBox4 = (gcnew System::Windows::Forms::TextBox());
+			this->radio = (gcnew System::Windows::Forms::TextBox());
 			this->label5 = (gcnew System::Windows::Forms::Label());
-			this->textBox5 = (gcnew System::Windows::Forms::TextBox());
+			this->resultados = (gcnew System::Windows::Forms::TextBox());
 			this->comboBox1 = (gcnew System::Windows::Forms::ComboBox());
 			this->label6 = (gcnew System::Windows::Forms::Label());
 			this->label7 = (gcnew System::Windows::Forms::Label());
-			this->button3 = (gcnew System::Windows::Forms::Button());
-			this->textBox6 = (gcnew System::Windows::Forms::TextBox());
+			this->cargar = (gcnew System::Windows::Forms::Button());
+			this->tiempocarga = (gcnew System::Windows::Forms::TextBox());
 			this->label8 = (gcnew System::Windows::Forms::Label());
-			this->textBox7 = (gcnew System::Windows::Forms::TextBox());
+			this->ram = (gcnew System::Windows::Forms::TextBox());
 			this->label9 = (gcnew System::Windows::Forms::Label());
-			this->textBox8 = (gcnew System::Windows::Forms::TextBox());
+			this->tiempoBusqueda = (gcnew System::Windows::Forms::TextBox());
 			this->pictureBox1 = (gcnew System::Windows::Forms::PictureBox());
+			this->listBox1 = (gcnew System::Windows::Forms::ListBox());
+			this->button1 = (gcnew System::Windows::Forms::Button());
 			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->pictureBox1))->BeginInit();
 			this->SuspendLayout();
 			// 
@@ -111,21 +147,12 @@ namespace Diccionario {
 			this->label1->TabIndex = 0;
 			this->label1->Text = L"Archivo";
 			// 
-			// textBox1
+			// palabra
 			// 
-			this->textBox1->Location = System::Drawing::Point(596, 118);
-			this->textBox1->Name = L"textBox1";
-			this->textBox1->Size = System::Drawing::Size(237, 20);
-			this->textBox1->TabIndex = 1;
-			// 
-			// button1
-			// 
-			this->button1->Location = System::Drawing::Point(325, 117);
-			this->button1->Name = L"button1";
-			this->button1->Size = System::Drawing::Size(79, 23);
-			this->button1->TabIndex = 2;
-			this->button1->Text = L"Importar";
-			this->button1->UseVisualStyleBackColor = true;
+			this->palabra->Location = System::Drawing::Point(596, 118);
+			this->palabra->Name = L"palabra";
+			this->palabra->Size = System::Drawing::Size(237, 20);
+			this->palabra->TabIndex = 1;
 			// 
 			// label2
 			// 
@@ -140,14 +167,15 @@ namespace Diccionario {
 			this->label2->TabIndex = 3;
 			this->label2->Text = L"Buscar Palabra";
 			// 
-			// button2
+			// buscar
 			// 
-			this->button2->Location = System::Drawing::Point(846, 116);
-			this->button2->Name = L"button2";
-			this->button2->Size = System::Drawing::Size(75, 23);
-			this->button2->TabIndex = 4;
-			this->button2->Text = L"Buscar";
-			this->button2->UseVisualStyleBackColor = true;
+			this->buscar->Location = System::Drawing::Point(846, 116);
+			this->buscar->Name = L"buscar";
+			this->buscar->Size = System::Drawing::Size(75, 23);
+			this->buscar->TabIndex = 4;
+			this->buscar->Text = L"Buscar";
+			this->buscar->UseVisualStyleBackColor = true;
+			this->buscar->Click += gcnew System::EventHandler(this, &MyForm::button2_Click);
 			// 
 			// label3
 			// 
@@ -162,20 +190,13 @@ namespace Diccionario {
 			this->label3->TabIndex = 5;
 			this->label3->Text = L"Salida";
 			// 
-			// textBox2
+			// direccionArchivo
 			// 
-			this->textBox2->Location = System::Drawing::Point(132, 119);
-			this->textBox2->Name = L"textBox2";
-			this->textBox2->Size = System::Drawing::Size(187, 20);
-			this->textBox2->TabIndex = 6;
-			// 
-			// textBox3
-			// 
-			this->textBox3->Location = System::Drawing::Point(596, 203);
-			this->textBox3->Multiline = true;
-			this->textBox3->Name = L"textBox3";
-			this->textBox3->Size = System::Drawing::Size(325, 326);
-			this->textBox3->TabIndex = 7;
+			this->direccionArchivo->Location = System::Drawing::Point(137, 119);
+			this->direccionArchivo->Name = L"direccionArchivo";
+			this->direccionArchivo->Size = System::Drawing::Size(267, 20);
+			this->direccionArchivo->TabIndex = 6;
+			this->direccionArchivo->Text = L"Recursos/diccionario.txt";
 			// 
 			// label4
 			// 
@@ -190,12 +211,12 @@ namespace Diccionario {
 			this->label4->TabIndex = 8;
 			this->label4->Text = L"Radio";
 			// 
-			// textBox4
+			// radio
 			// 
-			this->textBox4->Location = System::Drawing::Point(596, 160);
-			this->textBox4->Name = L"textBox4";
-			this->textBox4->Size = System::Drawing::Size(96, 20);
-			this->textBox4->TabIndex = 9;
+			this->radio->Location = System::Drawing::Point(596, 160);
+			this->radio->Name = L"radio";
+			this->radio->Size = System::Drawing::Size(96, 20);
+			this->radio->TabIndex = 9;
 			// 
 			// label5
 			// 
@@ -210,12 +231,13 @@ namespace Diccionario {
 			this->label5->TabIndex = 10;
 			this->label5->Text = L"Resultados";
 			// 
-			// textBox5
+			// resultados
 			// 
-			this->textBox5->Location = System::Drawing::Point(806, 160);
-			this->textBox5->Name = L"textBox5";
-			this->textBox5->Size = System::Drawing::Size(115, 20);
-			this->textBox5->TabIndex = 11;
+			this->resultados->Location = System::Drawing::Point(806, 160);
+			this->resultados->Name = L"resultados";
+			this->resultados->ReadOnly = true;
+			this->resultados->Size = System::Drawing::Size(115, 20);
+			this->resultados->TabIndex = 11;
 			// 
 			// comboBox1
 			// 
@@ -225,9 +247,10 @@ namespace Diccionario {
 					L"Pilas", L"Colas", L"Heaps"
 			});
 			this->comboBox1->Location = System::Drawing::Point(188, 166);
-			this->comboBox1->Name = L"comboBox1";
+			this->comboBox1->Name = L"cargar";
 			this->comboBox1->Size = System::Drawing::Size(216, 21);
 			this->comboBox1->TabIndex = 12;
+			this->comboBox1->SelectedIndexChanged += gcnew System::EventHandler(this, &MyForm::cargar_SelectedIndexChanged);
 			// 
 			// label6
 			// 
@@ -255,21 +278,23 @@ namespace Diccionario {
 			this->label7->TabIndex = 14;
 			this->label7->Text = L"Tiempo de Carga";
 			// 
-			// button3
+			// cargar
 			// 
-			this->button3->Location = System::Drawing::Point(78, 363);
-			this->button3->Name = L"button3";
-			this->button3->Size = System::Drawing::Size(326, 23);
-			this->button3->TabIndex = 15;
-			this->button3->Text = L"Cargar";
-			this->button3->UseVisualStyleBackColor = true;
+			this->cargar->Location = System::Drawing::Point(78, 363);
+			this->cargar->Name = L"cargar";
+			this->cargar->Size = System::Drawing::Size(326, 23);
+			this->cargar->TabIndex = 15;
+			this->cargar->Text = L"Cargar";
+			this->cargar->UseVisualStyleBackColor = true;
+			this->cargar->Click += gcnew System::EventHandler(this, &MyForm::cargar_Click);
 			// 
-			// textBox6
+			// tiempocarga
 			// 
-			this->textBox6->Location = System::Drawing::Point(188, 418);
-			this->textBox6->Name = L"textBox6";
-			this->textBox6->Size = System::Drawing::Size(216, 20);
-			this->textBox6->TabIndex = 16;
+			this->tiempocarga->Location = System::Drawing::Point(188, 418);
+			this->tiempocarga->Name = L"tiempocarga";
+			this->tiempocarga->ReadOnly = true;
+			this->tiempocarga->Size = System::Drawing::Size(216, 20);
+			this->tiempocarga->TabIndex = 16;
 			// 
 			// label8
 			// 
@@ -284,12 +309,13 @@ namespace Diccionario {
 			this->label8->TabIndex = 17;
 			this->label8->Text = L"Cantidad de Memoria Ram";
 			// 
-			// textBox7
+			// ram
 			// 
-			this->textBox7->Location = System::Drawing::Point(241, 460);
-			this->textBox7->Name = L"textBox7";
-			this->textBox7->Size = System::Drawing::Size(163, 20);
-			this->textBox7->TabIndex = 18;
+			this->ram->Location = System::Drawing::Point(241, 460);
+			this->ram->Name = L"ram";
+			this->ram->ReadOnly = true;
+			this->ram->Size = System::Drawing::Size(163, 20);
+			this->ram->TabIndex = 18;
 			// 
 			// label9
 			// 
@@ -304,12 +330,13 @@ namespace Diccionario {
 			this->label9->TabIndex = 19;
 			this->label9->Text = L"Tiempo de Busqueda";
 			// 
-			// textBox8
+			// tiempoBusqueda
 			// 
-			this->textBox8->Location = System::Drawing::Point(214, 501);
-			this->textBox8->Name = L"textBox8";
-			this->textBox8->Size = System::Drawing::Size(190, 20);
-			this->textBox8->TabIndex = 20;
+			this->tiempoBusqueda->Location = System::Drawing::Point(214, 501);
+			this->tiempoBusqueda->Name = L"tiempoBusqueda";
+			this->tiempoBusqueda->ReadOnly = true;
+			this->tiempoBusqueda->Size = System::Drawing::Size(190, 20);
+			this->tiempoBusqueda->TabIndex = 20;
 			// 
 			// pictureBox1
 			// 
@@ -323,6 +350,24 @@ namespace Diccionario {
 			this->pictureBox1->TabIndex = 21;
 			this->pictureBox1->TabStop = false;
 			// 
+			// listBox1
+			// 
+			this->listBox1->FormattingEnabled = true;
+			this->listBox1->Location = System::Drawing::Point(596, 204);
+			this->listBox1->Name = L"listBox1";
+			this->listBox1->Size = System::Drawing::Size(325, 329);
+			this->listBox1->TabIndex = 22;
+			// 
+			// button1
+			// 
+			this->button1->Location = System::Drawing::Point(507, 240);
+			this->button1->Name = L"button1";
+			this->button1->Size = System::Drawing::Size(70, 24);
+			this->button1->TabIndex = 23;
+			this->button1->Text = L"Mostrar ";
+			this->button1->UseVisualStyleBackColor = true;
+			this->button1->Click += gcnew System::EventHandler(this, &MyForm::mostrar_Click);
+			// 
 			// MyForm
 			// 
 			this->AutoScaleDimensions = System::Drawing::SizeF(6, 13);
@@ -330,29 +375,30 @@ namespace Diccionario {
 			this->BackgroundImage = (cli::safe_cast<System::Drawing::Image^>(resources->GetObject(L"$this.BackgroundImage")));
 			this->BackgroundImageLayout = System::Windows::Forms::ImageLayout::Stretch;
 			this->ClientSize = System::Drawing::Size(1007, 600);
+			this->Controls->Add(this->button1);
+			this->Controls->Add(this->listBox1);
 			this->Controls->Add(this->pictureBox1);
-			this->Controls->Add(this->textBox8);
+			this->Controls->Add(this->tiempoBusqueda);
 			this->Controls->Add(this->label9);
-			this->Controls->Add(this->textBox7);
+			this->Controls->Add(this->ram);
 			this->Controls->Add(this->label8);
-			this->Controls->Add(this->textBox6);
-			this->Controls->Add(this->button3);
+			this->Controls->Add(this->tiempocarga);
+			this->Controls->Add(this->cargar);
 			this->Controls->Add(this->label7);
 			this->Controls->Add(this->label6);
 			this->Controls->Add(this->comboBox1);
-			this->Controls->Add(this->textBox5);
+			this->Controls->Add(this->resultados);
 			this->Controls->Add(this->label5);
-			this->Controls->Add(this->textBox4);
+			this->Controls->Add(this->radio);
 			this->Controls->Add(this->label4);
-			this->Controls->Add(this->textBox3);
-			this->Controls->Add(this->textBox2);
+			this->Controls->Add(this->direccionArchivo);
 			this->Controls->Add(this->label3);
-			this->Controls->Add(this->button2);
+			this->Controls->Add(this->buscar);
 			this->Controls->Add(this->label2);
-			this->Controls->Add(this->button1);
-			this->Controls->Add(this->textBox1);
+			this->Controls->Add(this->palabra);
 			this->Controls->Add(this->label1);
 			this->FormBorderStyle = System::Windows::Forms::FormBorderStyle::FixedSingle;
+			this->MaximizeBox = false;
 			this->Name = L"MyForm";
 			this->Text = L"Diccionario";
 			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->pictureBox1))->EndInit();
@@ -361,5 +407,61 @@ namespace Diccionario {
 
 		}
 #pragma endregion
-	};
+	private: System::Void button2_Click(System::Object^  sender, System::EventArgs^  e) {
+		listBox1->Items->Clear();
+		string busqueda,resultado;
+		MarshalString(palabra->Text, busqueda);
+		resultado=List.find(busqueda);
+		listBox1->Items->Add(gcnew String(resultado.c_str()));
+		resultados->Text = L"1";
+		
+	}
+   
+	private: System::Void cargar_SelectedIndexChanged(System::Object^  sender, System::EventArgs^  e) {
+	}
+	private: System::Void cargar_Click(System::Object^  sender, System::EventArgs^  e) {
+		string direccion,palabra,trd;
+		char cadena[128];
+		MarshalString(direccionArchivo->Text, direccion);
+		std::ifstream archivo(direccion);
+		while(archivo){
+			archivo >> palabra;			
+			archivo >> trd;
+			archivo.getline(cadena,128);
+			trd = trd+cadena;
+			List.pushBack(palabra, trd);
+			
+		}
+		archivo.close();
+		listBox1->Items->Clear();
+		listBox1->Items->Add("Listo");
+	}
+	private: System::Void mostrar_Click(System::Object^  sender, System::EventArgs^  e) {
+				 //MUESTRA DESDE LA ESTRUCTURA DE DATOS
+				 listBox1->Items->Clear();
+				 int cont = 0;
+				 Nodo<string> *aux = List.m_pHead;
+				 while (aux){					 
+					 string cadena = aux->m_palabra + "     Traduccion = " + aux->m_traduccion;
+					 listBox1->Items->Add(gcnew String(cadena.c_str()));
+					 aux=aux->m_psig;
+					 cont++;
+				 }				 
+				resultados->Text = System::Convert::ToString(cont);
+				 //MUESTRA AL LEER
+				 /*listBox1->Items->Clear();
+				 string direccion, palabra, trd;
+				 char cadena[128];
+				 MarshalString(direccionArchivo->Text, direccion);
+				 ifstream archivo(direccion);
+				 while(archivo){
+					 archivo >> palabra;
+					 archivo >> trd;
+					 archivo.getline(cadena, 128);
+					 trd = palabra+"      Traduccion = "+trd + cadena;
+					 listBox1->Items->Add(gcnew String(trd.c_str()));
+				 }
+				 archivo.close();*/
+	}
+};
 }
